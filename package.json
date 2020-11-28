@@ -1,0 +1,23 @@
+{
+  "name": "mocha_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/mocha_basics.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/mocha_basics/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/mocha_basics#readme",
+  "devDependencies": {
+    "mocha": "8.2.1"
+  }
+}
